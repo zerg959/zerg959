@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning JS, Python, Web
-- ![codewars](https://www.codewars.com/users/zerg959/badges/large)
+  ![codewars](https://www.codewars.com/users/zerg959/badges/large)
 <!--
 **zerg959/zerg959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
