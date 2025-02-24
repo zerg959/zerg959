@@ -4,8 +4,9 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-- 🌱 I’m currently learning JS, Python, Web
+
   ![codewars](https://www.codewars.com/users/zerg959/badges/large)
+  - 🌱 I’m currently learning JS, Python, Web
 <!--
 **zerg959/zerg959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
