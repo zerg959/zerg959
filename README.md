@@ -3,7 +3,7 @@
 <h3 align="center">Python developer</h3>
 
   ![codewars](https://www.codewars.com/users/zerg959/badges/large)
-  - 🌱 I’m currently learning JS, Python, Web
+  - 🌱 I’m currently learning JS, Python, Web in Hexlet college.
 <!--
 **zerg959/zerg959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
