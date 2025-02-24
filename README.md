@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer</h3>
-![codewars](https://www.codewars.com/users/zerg959/badges/large)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
 - 🌱 I’m currently learning JS, Python, Web
+- ![codewars](https://www.codewars.com/users/zerg959/badges/large)
 <!--
 **zerg959/zerg959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
