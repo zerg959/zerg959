@@ -7,6 +7,7 @@
   - 🌱 I’m currently learning JS, Python, Web in Hexlet college.
   - 📫  I speak Russian (native), English (B2), Finnish (A2).
   - 💬 Connect with me: @ZERG959 (telegram), zerg959@gmail.com.
+### :hammer_and_wrench: Languages and Tools :
 <!--
 **zerg959/zerg959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
