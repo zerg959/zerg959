@@ -3,7 +3,7 @@
 <h3 align="center">Python developer</h3>
 
   ![codewars](https://www.codewars.com/users/zerg959/badges/large)
-  - 🔭 I work for myself.
+  - 🔭 I’m currently working for myself.
   - 🌱 I’m currently learning JS, Python, Web in Hexlet college.
   - 📫  I speak Russian (native), English (B2), Finnish (A2).
   - 💬 Connect with me: @ZERG959 (telegram), zerg959@gmail.com.
